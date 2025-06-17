@@ -51,7 +51,7 @@ Upload the BRATS volumes (`.nii.gz` for T1, T1ce, T2, FLAIR) to your Google Driv
 
 ---
 
-## 📊 Evaluation
+##  Evaluation
 
 * **Dice Score**: Measures overlap between prediction and ground truth
 * **IoU Score**: Intersection over Union
@@ -65,10 +65,10 @@ The notebook provides:
 
 ##  Deliverables
 
-* ✔ Kaggle Notebook (`3d-mri-brats.ipynb`)
-* ✔ Segmentation visualizations
-* ✔ Dice and IoU evaluations
-* ✔ README with instructions (this file)
+*  Kaggle Notebook (`3d-mri-brats.ipynb`)
+*  Segmentation visualizations
+*  Dice and IoU evaluations
+*  README with instructions (this file)
 
 
 
